@@ -7,6 +7,7 @@
 - GrilleNimpe
 - realBoubli
 - LeKoopaFDP
+- alexender1101
 ## Contenu
 - luz_bot.py est le code principal de Luz.
 - fonction_sqlite.py contient les fonctions utilisant SQLite, afin de mettre à jour la base de données.
